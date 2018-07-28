@@ -10,3 +10,4 @@
 # Ignore some things with extensions
 *.swp
 .DS_Store
+foo.*
